@@ -1,0 +1,19 @@
+.bottom_nav {
+    position: fixed;
+    transform: translate(-50%, 0%);
+    height: 522px;
+    width: 522px;
+    bottom: -88%; /* 83 */
+    left: 50%;
+    z-index: 999;
+  }
+
+  .nav_wheel {
+
+  }
+
+  .nav_wheel_indicator {
+    position: absolute;
+    left:50%;
+    transform: translate(-50%, -200%);
+  }

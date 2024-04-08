@@ -1,0 +1,12 @@
+
+
+.page_2 {
+    --primary: #F9D100;
+    --primary-text: #162A6A;
+    --secondary: #162A6A;
+    --secondary-lighten: #455588;
+    --white-text: #162A6A;
+    --negative-text: #ffffff;
+    background-color: var(--secondary-lighten);
+    color: var(--primary-text);
+}
